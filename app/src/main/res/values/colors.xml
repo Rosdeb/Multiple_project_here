@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Voucher">#DFD9D9</color>
+    <color name="v">#BFBABA</color>
+    <color name="lightGray">#58C885</color>
+    <color name="red1">#D14141</color>
+    <color name="oreng">#509ADC</color>
+    <color name="green">#DE75E6</color>
+</resources>
